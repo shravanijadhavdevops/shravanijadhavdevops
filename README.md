@@ -2,7 +2,8 @@
 <p align="center">
   <img src="images/banner.png" alt="Banner" width="100%">
 </p>
-# Hi 👋, I'm Shravani Jadhav
+
+ # Hi 👋, I'm Shravani Jadhav
 
 ### AWS | Linux | Networking Enthusiast | Cloud Learner
 
