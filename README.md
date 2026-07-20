@@ -59,9 +59,7 @@ AWS Lambda automatically creates snapshots of EBS volumes.
 
 ---
 
-## 📊 GitHub Stats
 
-(Add GitHub Stats Cards here)
 
 ---
 
