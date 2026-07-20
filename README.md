@@ -17,7 +17,7 @@ I am a passionate Cloud and AWS enthusiast who enjoys building practical infrast
 - 🐧 Practicing Linux Administration
 - 🌐 Improving Networking Fundamentals
 - 📚 Exploring Infrastructure Automation
-- 🎯 Goal: Become a Cloud Engineer
+- 🎯 Goal: Become a DevOps Engineer
 
 ---
 
